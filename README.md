@@ -12,6 +12,12 @@
 3) 이때 프레임에 나타난 객체들 간의 IoU를 계산하기 위해 객체간 매칭에 헝가리안 알고리즘을 활용합니다.<br>
 <br><br>
 
+# 샷 경계 검출 흐름도
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/f31ed794-590c-4b0a-8dfe-9958e18b0b3a">
+</p>
+
+<br><br>
 # 실험 결과
 |Video Name|Metric|Histogram Correlation|Histogram Correlation + YOLOv8|
 |:---|:---:|---:|---:|
